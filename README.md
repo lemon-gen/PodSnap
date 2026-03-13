@@ -43,3 +43,7 @@ then,enter demon and run StoW_test1.py to test the ability of change mp4 into wo
 cd demo
 python3 StoW_test1.py
 ```
+you can test word to summary by running WtoS_test1.py as well.
+```
+python3 WtoS_test1.py
+```
