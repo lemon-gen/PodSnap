@@ -38,7 +38,7 @@ Below, we provide simple examples to show how to use PodSnap in demo.
 ```
 conda activate Podsnap
 ```
-then,enter demon and run StoW_test1.py
+then,enter demon and run StoW_test1.py to test the ability of change mp4 into words.
 ```
 cd demo
 python3 StoW_test1.py
